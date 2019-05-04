@@ -10,3 +10,7 @@ const lastImageSelector = () => {
 const ninjaBabySelector = () => {
   return $('#baby-ninja');
 };
+
+const divSelector = () => {
+  return $('.pics');
+};
