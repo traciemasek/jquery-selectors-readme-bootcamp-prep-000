@@ -14,3 +14,7 @@ const ninjaBabySelector = () => {
 const divSelector = () => {
   return $('.pics');
 };
+
+const firstListItem = () => {
+  return $('ul #pic-list:first-child');
+};
