@@ -2,3 +2,7 @@
 const paragraphSelector = () => {
   return $('p')
 }
+
+const lastImageSelector = () => {
+  
+}
