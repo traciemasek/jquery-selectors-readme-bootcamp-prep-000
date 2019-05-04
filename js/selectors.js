@@ -4,5 +4,5 @@ const paragraphSelector = () => {
 }
 
 const lastImageSelector = () => {
-  
+  return $('img:last')
 }
