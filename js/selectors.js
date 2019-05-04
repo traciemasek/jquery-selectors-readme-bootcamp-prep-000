@@ -21,7 +21,7 @@ const firstListItem = () => {
 
 function paragraphSelector() {
   return $('p');
-};
+}
 
 const lastImageSelector = () => {
   return $('img:last');
