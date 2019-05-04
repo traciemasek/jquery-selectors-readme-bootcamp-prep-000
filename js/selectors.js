@@ -1,8 +1,8 @@
 // declare your functions here...
 const paragraphSelector = () => {
-  return $('p')
+  return $('p');
 }
 
 const lastImageSelector = () => {
-  return $('img:last')
+  return $('img:last');
 }
