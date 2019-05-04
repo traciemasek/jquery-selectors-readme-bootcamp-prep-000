@@ -8,5 +8,5 @@ const lastImageSelector = () => {
 };
 
 const ninjaBabySelector = () => {
-  return $('#ninja-baby');
+  return $('#baby-ninja');
 };
