@@ -7,6 +7,6 @@ const lastImageSelector = () => {
   return $('img:last');
 };
 
-const lastImageSelector = () => {
-  return $('img:last');
+const ninjaBabySelector = () => {
+  return $('#ninja-baby');
 };
