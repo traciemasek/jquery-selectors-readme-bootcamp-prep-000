@@ -23,18 +23,18 @@ function paragraphSelector() {
   return $('p');
 }
 
-const lastImageSelector = () => {
+function lastImageSelector() {
   return $('img:last');
-};
+}
 
-const ninjaBabySelector = () => {
+function ninjaBabySelector() {
   return $('#baby-ninja');
-};
+}
 
-const divSelector = () => {
+function divSelector() {
   return $('.pics');
-};
+}
 
-const firstListItem = () => {
+function firstListItem() {
   return $('ul #pic-list:first-child');
-};
+}
