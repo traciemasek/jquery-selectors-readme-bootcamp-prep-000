@@ -1,6 +1,4 @@
 // declare your functions here...
-$(document).ready(() => {
-  
-
-
-}); //end of .ready
+const paragraphSelector = () => {
+  return $('p')
+}
