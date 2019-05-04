@@ -6,3 +6,7 @@ const paragraphSelector = () => {
 const lastImageSelector = () => {
   return $('img:last');
 };
+
+const lastImageSelector = () => {
+  return $('img:last');
+};
